@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Water Station Analysis System
 
 A scalable, configuration-driven water level analysis system that can handle multiple monitoring stations efficiently.
@@ -204,3 +205,6 @@ This professional system is designed to be:
 ---
 
 **Recommendation**: Use this professional approach for all 8 stations. It's the industry standard for multi-station analysis systems.
+=======
+# Yaron-Geller-Planning-Management-of-Water-Resources
+>>>>>>> 8d029ac33a414ae14772ba4f1b3ed7f10eb78994
