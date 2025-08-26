@@ -1,4 +1,4 @@
-# 💧 Jerusalem Water Supply Analysis
+#  Jerusalem Water Supply Analysis
 
 This project analyzes measurements of water flowing into various **water facilities in Jerusalem**, with the goal of supporting engineering decisions through clear **data visualizations** and **statistical insights**.
 
@@ -6,16 +6,16 @@ Developed for the **lead water resources engineer**, this tool helps evaluate fl
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
-- 📥 **Ingest** and process water flow data collected from multiple supply stations in Jerusalem.
-- 📊 **Visualize** water flow over time — daily, monthly, and per location.
-- 📆 **Compare water behavior** across weekdays (e.g., Monday vs. Saturday) and weekend windows.
-- 📤 **Export actionable insights** to Excel reports with embedded graphs for stakeholders and engineers.
+-  **Ingest** and process water flow data collected from multiple supply stations in Jerusalem.
+-  **Visualize** water flow over time — daily, monthly, and per location.
+-  **Compare water behavior** across weekdays (e.g., Monday vs. Saturday) and weekend windows.
+- **Export actionable insights** to Excel reports with embedded graphs for stakeholders and engineers.
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 projects/
@@ -29,7 +29,7 @@ projects/
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ### `Jerusalem_water_supply.py`:
 - Reads Excel files from multiple Jerusalem water facilities.
@@ -52,7 +52,7 @@ projects/
 
 ---
 
-## 📊 Technologies Used
+##  Technologies Used
 
 - `pandas` for data cleaning and analysis  
 - `matplotlib` and `seaborn` for visualizations  
@@ -66,7 +66,7 @@ pip install pandas matplotlib seaborn openpyxl
 
 ---
 
-## 📈 Output Highlights
+##  Output Highlights
 
 - Water flow graphs over time for all locations
 - Separate monthly visualizations
@@ -76,7 +76,7 @@ pip install pandas matplotlib seaborn openpyxl
 
 ---
 
-## 🧪 Example Use Case
+##  Example Use Case
 
 The lead engineer at a Jerusalem water resource firm can use this project to:
 
