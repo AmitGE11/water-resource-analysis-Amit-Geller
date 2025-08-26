@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Professional Water Station Analysis System
+Professional Water Station Analysis System
 
 A scalable, configuration-driven water level analysis system that can handle multiple monitoring stations efficiently.
 
