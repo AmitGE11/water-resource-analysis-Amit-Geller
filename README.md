@@ -1,5 +1,6 @@
 
-#  Data Analysis & Automation – Water Resource Management
+#  Data Analysis & Automation – Water Resource Management 
+# Amit Geller
 
 This repository showcases my work as a **Data Analysis & Automation Support Specialist** at
 **Yaron Geller – Planning & Management of Water Resources** .
