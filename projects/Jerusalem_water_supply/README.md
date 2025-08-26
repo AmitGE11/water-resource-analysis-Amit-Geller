@@ -42,7 +42,7 @@ projects/
 - Outputs all graphs to a **single Excel report**.
 
 ### `mon_vs_sat.py`:
-- Aggregates and compares water levels for **Mondays vs. Saturdays**.
+- Aggregates and compares water levels for **Mondays vs. Saturdays** to the rwquest of the leading engineer.
 - Calculates:
   - Overall and daytime averages
   - Monthly breakdowns
