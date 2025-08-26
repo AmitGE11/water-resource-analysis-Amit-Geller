@@ -1,40 +1,38 @@
 <<<<<<< HEAD
-# Professional Water Station Analysis System
+# Kiryat Bialik- Analysis of abnormal water flows
 
 A scalable, configuration-driven water level analysis system that can handle multiple monitoring stations efficiently.
 
-## 🎯 Why This Professional Approach?
 
-### ✅ **Single File, Multiple Stations**
+###  **Single File, Multiple Stations**
 - **One codebase** to maintain
 - **Consistent analysis** across all stations
 - **Easy updates** and bug fixes
 - **Professional logging** and error handling
 
-### ✅ **Configuration-Driven**
+###  **Configuration-Driven**
 - **JSON configuration** for easy station management
 - **Enable/disable stations** without code changes
 - **Custom thresholds** per station
 - **Flexible paths** and settings
 
-### ✅ **Scalable Architecture**
+###  **Scalable Architecture**
 - **Object-oriented design** for maintainability
 - **Modular functions** for reusability
 - **Professional logging** for debugging
 - **Error handling** for robustness
 
-## 📁 File Structure
+##  File Structure
 
 ```
 water_analysis/
 ├── water_station_analyzer.py    # Main analysis engine
 ├── station_config.json          # Station configuration
 ├── setup_stations.py            # Setup and validation script
-├── Hans_Moller.py              # Original single-station script (for reference)
 └── README.md                   # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Setup and Validation
 ```bash
@@ -47,7 +45,7 @@ This will:
 - Create output directories
 - Show setup status
 
-### 2. Configure Your Stations
+### 2. Configure The Stations
 Edit `station_config.json` to match your actual station paths:
 
 ```json
@@ -57,16 +55,7 @@ Edit `station_config.json` to match your actual station paths:
             "name": "Hans Moller",
             "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\הנס מולר",
             "threshold": 0.5,
-            "enabled": true
-        },
-        "your_station_2": {
-            "name": "Your Station 2",
-            "data_dir": "C:\\path\\to\\your\\station2\\data",
-            "threshold": 0.5,
-            "enabled": true
-        }
-    }
-}
+            "enabled": true}
 ```
 
 ### 3. Run Analysis
