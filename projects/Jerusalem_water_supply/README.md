@@ -76,11 +76,3 @@ pip install pandas matplotlib seaborn openpyxl
 
 ---
 
-##  Example Use Case
-
-The lead engineer at a Jerusalem water resource firm can use this project to:
-
-- Understand facility-specific behavior over time
-- Compare weekdays vs. weekends for maintenance planning
-- Identify anomalies or irregularities before they escalate
-- Present visual summaries to municipalities or contractors
