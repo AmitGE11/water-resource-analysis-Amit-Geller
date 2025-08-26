@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kiryat Bialik- Analysis of abnormal water flows
 
 A scalable, configuration-driven water level analysis system that can handle multiple monitoring stations efficiently.
