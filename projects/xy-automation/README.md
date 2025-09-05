@@ -1,4 +1,5 @@
-##Elevation Automation Script
+## Overview
+Elevation Automation Script
  Overview
 
 This project automates the process of retrieving ground elevation values for coordinates provided in ITM (Israel Transverse Mercator, EPSG:2039).
