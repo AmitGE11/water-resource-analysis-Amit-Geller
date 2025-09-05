@@ -1,0 +1,69 @@
+{
+    "base_output_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\Final Analysis",
+    "rain_data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\מדידות גשם",
+    "stations": {
+        "hans_moller": {
+            "name": "Hans Moller",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\הנס מולר",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Hans Moller water level monitoring station"
+        },
+        "haroshet_south": {
+            "name": "Haroshet South",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\חרושת דרום",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Haroshet South water level monitoring station"
+        },
+        "haroshet_north": {
+            "name": "Haroshet North",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\חרושת צפון",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Haroshet North water level monitoring station"
+        },
+        "yosef_levi": {
+            "name": "Yosef Levi",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\יוסף לוי",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Yosef Levi water level monitoring station"
+        },
+        "yosef_levi_west": {
+            "name": "Yosef Levi West",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\יוסף לוי מערב",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Yosef Levi West water level monitoring station"
+        },
+        "measef_shefaram": {
+            "name": "Measef Shefaram",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\מאסף שפרעם",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Measef Shefaram water level monitoring station"
+        },
+        "shuhot_etzel_habanim": {
+            "name": "Shuhot Etzel - Habanim",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\שוחת אצל - הבנים",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Shuhot Etzel - Habanim water level monitoring station"
+        },
+        "kiryat_bialik": {
+            "name": "Kiryat Bialik",
+            "data_dir": "C:\\Users\\AmitGeller\\Desktop\\Yaron Geller\\Water_Analysis\\שוחת כניסה לתש קדמת ביאליק",
+            "threshold": 0.5,
+            "enabled": true,
+            "description": "Kiryat Bialik water level monitoring station"
+        }
+    },
+    "analysis_settings": {
+        "chart_dpi": 300,
+        "chart_figsize": [15, 8],
+        "excel_engine": "openpyxl",
+        "cleanup_temp_files": true,
+        "logging_level": "INFO"
+    }
+}

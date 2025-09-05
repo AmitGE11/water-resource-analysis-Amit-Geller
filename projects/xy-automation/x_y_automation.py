@@ -22,7 +22,7 @@ def get_elevation_from_coordinates(lat: float, lon: float) -> Optional[float]:
         Elevation in meters or None if failed
     """
     try:
-        # Using Open-Elevation API (free, no API key required)
+        # Using Open-Elevation API
         url = f"https://api.open-elevation.com/api/v1/lookup?locations={lat},{lon}"
         
         response = requests.get(url, timeout=10)
